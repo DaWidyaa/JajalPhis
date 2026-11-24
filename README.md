@@ -26,7 +26,7 @@
 
 <h3><p align="center">Disclaimer</p></h3>
 
-<i>Segala tindakan dan aktivitas yang berkaitan dengan <b>Zphisher</b> sepenuhnya menjadi tanggung jawab Anda sendiri. Penyalahgunaan perangkat ini dapat mengakibatkan <b>tuntutan pidana</b> terhadap pihak yang bersangkutan. <b>Para kontributor tidak bertanggung jawab</b> apabila terdapat individu yang dikenakan tuntutan hukum akibat menyalahgunakan perangkat ini untuk melakukan tindakan yang melanggar hukum.
+<i>Segala tindakan dan aktivitas yang berkaitan dengan <b>JajalPhis</b> sepenuhnya menjadi tanggung jawab Anda sendiri. Penyalahgunaan perangkat ini dapat mengakibatkan <b>tuntutan pidana</b> terhadap pihak yang bersangkutan. <b>Para kontributor tidak bertanggung jawab</b> apabila terdapat individu yang dikenakan tuntutan hukum akibat menyalahgunakan perangkat ini untuk melakukan tindakan yang melanggar hukum.
 
 <b>Perangkat ini mengandung materi yang berpotensi membahayakan atau merugikan pengguna media sosial.</b> Pelajari peraturan perundang-undangan yang berlaku di provinsi atau negara Anda sebelum mengakses, menggunakan, atau memanfaatkan perangkat ini dengan cara yang tidak semestinya.
 
@@ -38,31 +38,31 @@ Perangkat ini hanya mendemonstrasikan "bagaimana phishing bekerja". <b>Anda tida
 
 ### Features
 
-- Latest and updated login pages.
-- Beginners friendly
-- Multiple tunneling options
+- Halaman login terbaru dan selalu diperbarui.
+- Mudah digunakan oleh pemula.
+- Mendukung berbagai pilihan tunneling:
   - Localhost
   - Cloudflared
   - LocalXpose
-- Mask URL support 
-- Docker support
+- Mendukung penyamaran URL (Mask URL).
+- Mendukung Docker.
 
 ##
 
 ### Installation
 
-- Just, Clone this repository -
+- Anu kur gandakna reposity kie -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone --depth=1 https://github.com/DaWidyaa/JajalPhis.git
   ```
 
-- Now go to cloned directory and run `zphisher.sh` -
+- Bar Kue Jalanna `zphisher.sh` -
   ```
   $ cd zphisher
   $ bash zphisher.sh
   ```
 
-- On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
+- Pada saat pertama kali dijalankan, program akan menginstal semua dependensi yang diperlukan. Setelah proses tersebut selesai, ***JajalPhis*** berhasil diinstal..
 
 ##
 
