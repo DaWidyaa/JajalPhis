@@ -1,7 +1,7 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src="Aris1.jpeg">
+  <img src="Aris2.png">
 </p>
 
 <p align="center">
