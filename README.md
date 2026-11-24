@@ -26,13 +26,13 @@
 
 <h3><p align="center">Disclaimer</p></h3>
 
-<i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i>Segala tindakan dan aktivitas yang berkaitan dengan <b>Zphisher</b> sepenuhnya menjadi tanggung jawab Anda sendiri. Penyalahgunaan perangkat ini dapat mengakibatkan <b>tuntutan pidana</b> terhadap pihak yang bersangkutan. <b>Para kontributor tidak bertanggung jawab</b> apabila terdapat individu yang dikenakan tuntutan hukum akibat menyalahgunakan perangkat ini untuk melakukan tindakan yang melanggar hukum.
 
-<b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
+<b>Perangkat ini mengandung materi yang berpotensi membahayakan atau merugikan pengguna media sosial.</b> Pelajari peraturan perundang-undangan yang berlaku di provinsi atau negara Anda sebelum mengakses, menggunakan, atau memanfaatkan perangkat ini dengan cara yang tidak semestinya.
 
-<b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
+<b>Perangkat ini dibuat semata-mata untuk tujuan pendidikan.</b> Jangan mencoba melanggar hukum dengan menggunakan segala hal yang terdapat di dalamnya. <b>Jika memang itu tujuan Anda, segera tinggalkan tempat ini!</b>
 
-It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
+Perangkat ini hanya mendemonstrasikan "bagaimana phishing bekerja". <b>Anda tidak diperbolehkan menyalahgunakan informasi ini untuk mendapatkan akses tanpa izin ke akun media sosial milik orang lain.</b> Namun, Anda dapat mempelajari dan mengujinya secara bertanggung jawab dengan risiko yang menjadi tanggung jawab Anda sendiri.</i>
 
 ##
 
